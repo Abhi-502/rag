@@ -1,0 +1,10 @@
+TITLE: Red Blood Cell (RBC) Count and Hematocrit - General Guidance
+SOURCE STYLE: WHO style clinical reference note
+
+RBC count and hematocrit (the proportion of blood volume made up of red
+cells) generally move together with hemoglobin and are used to help
+classify anemia (e.g. by red cell size, "MCV") or, when elevated, to
+assess for polycythemia. As with hemoglobin, causes range from
+dehydration and altitude to underlying bone marrow or lung/heart
+conditions, and interpretation should consider the full blood count
+together rather than any single value in isolation.

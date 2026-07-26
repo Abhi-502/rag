@@ -1,0 +1,10 @@
+TITLE: Serum Creatinine - General Guidance
+SOURCE STYLE: CDC / ICMR style clinical reference note
+
+Creatinine is a waste product filtered by the kidneys; elevated levels can
+indicate reduced kidney function, dehydration, or high muscle turnover.
+A single elevated value is often confirmed with a repeat test and an
+estimated glomerular filtration rate (eGFR) calculation, since normal
+ranges vary with age, sex, and muscle mass. Persistently low creatinine
+is less commonly clinically significant and can relate to lower muscle
+mass.

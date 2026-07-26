@@ -1,0 +1,11 @@
+TITLE: White Blood Cell (WBC) Count - General Guidance
+SOURCE STYLE: CDC / ICMR style clinical reference note
+
+White blood cells are part of the immune system. An elevated WBC count
+(leukocytosis) is most often a sign of infection or inflammation, but can
+also occur with stress, certain medications (like steroids), smoking, or
+less commonly blood cancers. A low WBC count (leukopenia) can result from
+viral infections, certain medications, autoimmune conditions, or bone
+marrow problems, and may increase infection risk. A single abnormal WBC
+value is frequently followed up with a repeat test and a differential
+count (breakdown by cell type) before drawing conclusions.

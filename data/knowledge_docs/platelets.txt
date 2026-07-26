@@ -1,0 +1,10 @@
+TITLE: Platelet Count - General Guidance
+SOURCE STYLE: WHO style clinical reference note
+
+Platelets help blood clot. Low platelet count (thrombocytopenia) can
+increase bruising and bleeding risk and may be caused by viral infections,
+certain medications, autoimmune conditions, or reduced bone marrow
+production. High platelet count (thrombocytosis) can be reactive (after
+infection, inflammation, or blood loss) or, less commonly, related to a
+bone marrow disorder. Clinical context and trend over time matter more
+than a single reading.

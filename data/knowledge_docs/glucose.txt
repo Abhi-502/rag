@@ -1,0 +1,10 @@
+TITLE: Fasting Blood Glucose - General Guidance
+SOURCE STYLE: WHO / ICMR style clinical reference note
+
+Fasting glucose reflects blood sugar after roughly 8 hours without food.
+Values persistently at or above 126 mg/dL on more than one occasion are
+generally consistent with diabetes; values between 100-125 mg/dL suggest
+prediabetes (impaired fasting glucose) and warrant lifestyle counseling and
+follow-up testing such as HbA1c. Low fasting glucose (hypoglycemia) can
+cause shakiness, sweating, and confusion, and may relate to medications,
+prolonged fasting, or other endocrine conditions.

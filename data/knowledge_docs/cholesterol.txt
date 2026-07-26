@@ -1,0 +1,9 @@
+TITLE: Total Cholesterol - General Guidance
+SOURCE STYLE: WHO / CDC style clinical reference note
+
+Total cholesterol above 200 mg/dL is generally considered borderline-high,
+and above 240 mg/dL high, though clinical risk is better assessed using
+the full lipid panel (LDL, HDL, triglycerides) alongside other
+cardiovascular risk factors such as blood pressure, smoking status, and
+family history. Lifestyle measures (diet, exercise, weight management) are
+typically first-line for borderline results.

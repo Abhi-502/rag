@@ -1,0 +1,12 @@
+TITLE: Hemoglobin and Anemia - General Guidance
+SOURCE STYLE: WHO / CDC style clinical reference note
+
+Hemoglobin carries oxygen in red blood cells. Low hemoglobin (anemia) can
+cause fatigue, pale skin, shortness of breath, and dizziness. Common causes
+include iron deficiency, vitamin B12 or folate deficiency, chronic disease,
+or blood loss. Mild anemia is often managed with dietary iron and follow-up
+testing; more significant or persistent anemia warrants investigation into
+the underlying cause, including possible gastrointestinal blood loss in
+adults. High hemoglobin (polycythemia) is less common and can relate to
+dehydration, smoking, chronic lung disease, or living at high altitude, and
+in rarer cases bone marrow disorders.
