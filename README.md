@@ -105,6 +105,21 @@ This will:
 5. Check every value against known reference ranges.
 6. Print a final Markdown report and save it to `report_output.md`.
 
+## Vercel deployment
+
+This repository now exports a top-level Python `handler` from `main.py`, so Vercel can build it as a serverless function.
+
+To call it after deployment, send a POST request with a JSON body like:
+
+```json
+{
+  "image": "data/sample_reports/your_report.png",
+  "output": "report_output.md"
+}
+```
+
+If you only need local execution, continue using `python3 main.py --image ...`.
+
 ## Notes on "understandability"
 
 Every module is intentionally small (under ~150 lines), has a single

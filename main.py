@@ -93,3 +93,58 @@ if __name__ == "__main__":
 
     report_text = run_pipeline(args.image, args.output)
     print(report_text)
+
+
+def _parse_request_payload(request):
+    try:
+        if hasattr(request, "json") and request.json is not None:
+            return request.json
+    except Exception:
+        pass
+
+    body = getattr(request, "body", None)
+    if isinstance(body, (bytes, bytearray)):
+        try:
+            body = body.decode("utf-8")
+        except Exception:
+            body = None
+
+    if isinstance(body, str):
+        try:
+            import json
+            return json.loads(body)
+        except Exception:
+            pass
+
+    return {}
+
+
+def handler(request):
+    payload = _parse_request_payload(request)
+    image_path = payload.get("image")
+    output_path = payload.get("output", "report_output.md")
+
+    if not image_path:
+        args = getattr(request, "args", None)
+        if args is not None:
+            image_path = args.get("image")
+
+    if not image_path:
+        return {
+            "statusCode": 400,
+            "body": "Missing required field: image",
+        }
+
+    try:
+        report_text = run_pipeline(image_path, output_path)
+    except Exception as exc:
+        return {
+            "statusCode": 500,
+            "body": f"Pipeline failed: {exc}",
+        }
+
+    return {
+        "statusCode": 200,
+        "headers": {"Content-Type": "text/markdown"},
+        "body": report_text,
+    }
